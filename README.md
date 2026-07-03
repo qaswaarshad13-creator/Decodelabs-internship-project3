@@ -1,3 +1,5 @@
+
+<img width="1366" height="768" alt="Screenshot 2026-07-03 195453" src="https://github.com/user-attachments/assets/a11f9432-a7ce-4b6d-9130-8f50332bf58d" />
 <img width="1366" height="768" alt="Screenshot 2026-07-03 195453" src="https://github.com/user-attachments/assets/7bd0456d-4c6c-4e97-a102-cd7a82edc836" />
 
 # Decodelabs-internship-project3
